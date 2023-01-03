@@ -1,0 +1,12 @@
+
+
+.typewriter h1 {
+    color: white;
+    font-family: monospace;
+    overflow: hidden;
+    border-right: 0.15em solid orange;
+    white-space: nowrap;
+    margin: 20px auto;
+    letter-spacing: 0.15em;
+    animation: typing 3.5s steps(19, end), blink-caret 0.5s step-end infinite;
+}
